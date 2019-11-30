@@ -25,7 +25,6 @@ void check(int i,int j)
     else
         h[i][j]= h[i-1][j] +1;
 }
- 
 int main()
 {
     int n,m;
