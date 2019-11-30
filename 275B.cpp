@@ -78,7 +78,6 @@ int main()
         if(cnt!=p.size())
             res=0;
     }
-
     if(res)
         printf("YES");
     else
