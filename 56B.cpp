@@ -7,7 +7,6 @@ codeforces handle : MShv97
 
 //method 1
 #include<bits/stdc++.h>
- 
 using namespace std;
  
 int main()
